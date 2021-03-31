@@ -60,10 +60,10 @@ int main()
 
 	cout << "Start CCW Ramp" << endl;
 
-	// ramp to 90% over 3 seconds
+	// ramp to 90% over 2 seconds
 	pwm.rampSpeed(90.0f, 2);
 
-	// ramp to 0% over 3 seconds
+	// ramp to 0% over 2 seconds
 	pwm.rampSpeed(0.0f, 2);
 
 	// Set inputs to stop, turn off PWM when done
