@@ -10,8 +10,6 @@ using namespace std;
 
 int main()
 {
-    printf("hello from %s!\n", "ConsoleApplication1");
-
 	string path;
 	string pin_state;
 
