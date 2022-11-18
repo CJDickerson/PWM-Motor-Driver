@@ -8,6 +8,9 @@
 using namespace myNameSpace;
 using namespace std;
 
+// To change URL of beaglebone, go to Tools/Options/Cross Platform/Connection Manager
+// and edit the URL.
+
 int main()
 {
 	string path;
